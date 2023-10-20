@@ -19,3 +19,8 @@ This repository contains the source code for the web interface of the authoring 
 
 ## Ackowledgment
 The development of the tool that initiated this work was funded by the Grand Est region.
+
+
+# Component set-up
+
+Make sure you're using version ```2021.3.26f1``` of Unity
